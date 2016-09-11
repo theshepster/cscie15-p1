@@ -99,7 +99,7 @@
           transform: scale(1.5);
           transition: all .5s ease-in-out; }
 
-.hero {
+.full-screen-img {
   background: url("../img/profile.jpg") no-repeat center center;
   background-size: cover;
   height: 60vh;
