@@ -23,13 +23,13 @@
 
 @media only screen and (min-width: 40em) {
   .menu:last-child {
-    border-left: 1px solid #4e4e4e; }
+    border-left: 1px solid #003300; }
 
   .menu:first-child {
     border-left: none; }
 
   .menu li:not(:last-child) {
-    border-right: 1px solid #4e4e4e; } }
+    border-right: 1px solid #003300; } }
 .dropdown.menu .submenu {
   border: none; }
 
@@ -98,3 +98,44 @@
         .profile-card .profile-info .inline-list i.fi-social-youtube:hover {
           transform: scale(1.5);
           transition: all .5s ease-in-out; }
+
+.hero {
+  background: url("../img/profile.jpg") no-repeat center center;
+  background-size: cover;
+  height: 60vh;
+  margin-bottom: 3rem; }
+
+.circle-bg, .quote-1, .quote-2 {
+  margin-top: -2rem;
+  text-align: center;
+  opacity: 0.9;
+  border-radius: 50%;
+  height: 12rem;
+  width: 12rem; }
+  @media only screen and (min-width: 64.063em) {
+    .circle-bg, .quote-1, .quote-2 {
+      margin: 0 auto;
+      margin-top: 2rem;
+      height: 13rem;
+      width: 13rem; } }
+  .circle-bg p, .quote-1 p, .quote-2 p {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%); }
+
+.quote-1 {
+  background: #0086b3;
+  color: #fff;
+  z-index: 9999999;
+  font-size: 40px;
+  position: relative; }
+  @media only screen and (min-width: 64.063em) {
+    .quote-1 {
+      margin-right: 10rem; } }
+
+.quote-2 {
+  background: #F2F1EF; 
+  font-size: 24px;
+  }
+  .quote-2 p {
+    padding: 2rem; }
