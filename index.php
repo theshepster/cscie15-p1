@@ -36,17 +36,17 @@
             </div>
             <div class="medium-4 columns">
                 <div class="profile-card">
-                <img src="img/p3-logo.png" alt="P2">
+                <img src="img/p3-logo.png" alt="P3">
                     <div class="profile-info">
                         <h4 class="subheader">Project 3</h4>
                         <p>Placeholder description for Project 3.</p>
-                        <p><a href="comingsoon.php">Site</a> | <a href="comingsoon.php">Github</a></p>
+                        <p><a href="http://p3.mooreberg.me">Site</a> | <a href="https://github.com/theshepster/cscie15-p3">Github</a></p>
                     </div>
                 </div>
             </div>
             <div class="medium-4 columns">
                 <div class="profile-card">
-                <img src="img/p4-logo.png" alt="P2">
+                <img src="img/p4-logo.png" alt="P4">
                     <div class="profile-info">
                         <h4 class="subheader">Project 4</h4>
                         <p>Placeholder description for Project 4.</p>
