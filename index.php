@@ -30,7 +30,7 @@
                     <div class="profile-info">
                         <h4 class="subheader">Project 2</h4>
                         <p>Placeholder description for Project 2.</p>
-                        <p><a href="comingsoon.php">Site</a> | <a href="comingsoon.php">Github</a></p>
+                        <p><a href="http://p2.mooreberg.me">Site</a> | <a href="https://github.com/theshepster/cscie15-p2">Github</a></p>
                     </div>
                 </div>
             </div>
